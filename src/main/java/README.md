@@ -1,0 +1,1 @@
+(forcing a non-empty src/main/java directory for groovy-eclipse-compiler)
